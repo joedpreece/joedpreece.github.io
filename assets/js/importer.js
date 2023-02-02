@@ -11,3 +11,5 @@ $(function(){
 $(function(){
     $("#menu").load("/assets/html/menu.html");
 });
+
+document.getElementById("year").innerHTML = new Date().getFullYear();
