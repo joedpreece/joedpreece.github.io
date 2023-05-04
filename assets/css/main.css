@@ -4154,3 +4154,7 @@ input, select, textarea {
 		}
 
 	}
+
+.scale {
+	transform: scale(0.5);
+}
